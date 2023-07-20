@@ -1,0 +1,5 @@
+installer python3
+utiliser un editeur de texte pour ecrire le code python
+ouvrir le terminal
+se placer dans la racine de mon projet
+enfin executer le projet "python code.py
