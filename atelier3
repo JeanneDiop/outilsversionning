@@ -1,0 +1,4 @@
+def fonction():
+  resul=(4/2)
+  print (resul)
+fonction()
